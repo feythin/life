@@ -543,3 +543,6 @@ ul#thumbs{
 
 display: none;
 }
+
+/*去掉jiathis*/
+.ckepopBottom { display:none; }
