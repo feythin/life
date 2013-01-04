@@ -2,7 +2,7 @@ meta:
     site_title: "刘飞宇的生活博客"
     site_subtitle: "人生就是要不停的奋斗"
     site_language: "zh-cn"
-    absolute_baseurl: http://life.liufeiyu.cn
+    absolute_baseurl: http://liufeiyu.cn/life/
     domain: liufeiyu.cn
     author:
         full_name:Liu Feiyu
@@ -10,7 +10,7 @@ meta:
         name: feiyuliu
         email: liufeiyu323@gmail.com
 
-url: http://life.liufeiyu.cn
+url: http://liufeiyu.cn/life/
 
 #baseurl: /base
 
