@@ -12,7 +12,7 @@ meta:
 
 url: http://liufeiyu.cn/life/
 
-#baseurl: /base
+baseurl: /life
 
 markdown: kramdown
 
