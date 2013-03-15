@@ -1,7 +1,7 @@
 ---
 layout: post
 title: （转载）给明年依然年轻的我们：欲望、外界、标签、天才、时间、人生目标、现实、后悔、和经历 
-description: 这可能会是一篇科普文，也可能会是一篇长篇小说，但我不想这篇文章变成一篇励志文，大家都审美疲劳了。[原文地址](http://blog.sina.com.cn/s/blog_6e8e05ac0100wu4h.html)
+description:  这可能会是一篇科普文，也可能会是一篇长篇小说，但我不想这篇文章变成一篇励志文，大家都审美疲劳了。[原文地址](http://blog.sina.com.cn/s/blog_6e8e05ac0100wu4h.html)
 category: "励志"
 tags: [励志转载]
 ---  
